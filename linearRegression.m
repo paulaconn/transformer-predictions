@@ -1,6 +1,6 @@
 function linearRegression
 %This function calculates r values and simple linear regression
-%Paula Garcia, 2016
+%Paula Conn, 2016
 
   fid = fopen('IF1-FEB22-detailed.csv','r');   
   originalData = cell(100,1);  

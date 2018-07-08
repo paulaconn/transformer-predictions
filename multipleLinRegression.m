@@ -1,6 +1,6 @@
 function multipleLinRegression( data )
 %This function calculates results for mutivariable linear regression
-%Paula Garcia, 2016
+%Paula Conn, 2016
 
 %-Linear regression on all data except class and year
 X=data(:,2:6);

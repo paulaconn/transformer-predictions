@@ -1,6 +1,6 @@
 function logisticRegression(plotTitles, nominalData, data )
 %This function calculates results for logistic regression
-%Paula Garcia, 2016
+%Paula Conn, 2016
 
 %Generate the categories
 classCat=nominalData(:,8);
